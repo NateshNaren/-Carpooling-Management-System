@@ -1,3 +1,4 @@
+#This cod's errors were rectified
 class User:
     def __init__(self, username, role):
         self.username = username
